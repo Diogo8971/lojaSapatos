@@ -1,41 +1,14 @@
-# Website
+# Loja de Sapatos
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Bem-vindo à **Loja de Sapatos**, a sua loja online de confiança para encontrar os melhores sapatos para todas as ocasiões. Trabalhamos com as melhores marcas para oferecer a maior qualidade e conforto para os seus pés. Este repositório contém o código do nosso site desenvolvido com **Docusaurus**.
 
-## Installation
+## Índice
 
-```bash
-yarn
-```
+- [Sobre o Projeto](#sobre-o-projeto)
+- [Funcionalidades](#funcionalidades)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Instalação e Configuração](#instalação-e-configuração)
+- [Como Usar](#como-usar)
+- [Contribuição](#contribuição)
+- [Licença](#licença)
 
-## Local Development
-
-```bash
-yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-## Build
-
-```bash
-yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-## Deployment
-
-Using SSH:
-
-```bash
-USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```bash
-GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
