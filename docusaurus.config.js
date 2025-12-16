@@ -125,11 +125,11 @@ const config = {
             items: [
               {
                 label: 'Intagram',
-                href: 'https://www.instagram.com/Bella_Shoes/',
+                href: 'https://www.instagram.com/lojasapatos/',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discordapp.com/invite/lojasapatos',
               },
               {
                 label: 'X',
