@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Loja de Sapatos!!!',
-  tagline: 'Dinosaurs are cool',
+  title: 'Loja de Sapatos',
+  tagline: 'Aqui vai encontrar sapatos ao melhor preço ',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
