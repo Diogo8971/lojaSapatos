@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Loja de Sapatos',
   tagline: 'Aqui vai encontrar sapatos ao melhor preço ',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/imagemsapatoslogo.jpeg',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
