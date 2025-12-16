@@ -87,7 +87,7 @@ const config = {
         title: 'Bella Shoes',
         logo: {
           alt: 'Bella Shoes Logo',
-          src: 'img/logo.svg',
+          src: 'img/imagemsapatoslogo.jpeg',
         },
         items: [
           {
