@@ -34,3 +34,12 @@ O site foi desenvolvido com **Docusaurus**, uma ferramenta popular para a criaç
 
 ---
 
+## Tecnologias Utilizadas
+
+- **Docusaurus**: Framework utilizado para criar o site estático.
+- **React**: Biblioteca JavaScript para a construção de interfaces interativas.
+- **Markdown**: Utilizado para criar o conteúdo das páginas de forma simples e organizada.
+- **GitHub Pages**: Para o alojamento do site.
+- **Node.js**: Ambiente de execução JavaScript utilizado no desenvolvimento e compilação do site.
+
+---
