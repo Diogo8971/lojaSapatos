@@ -98,7 +98,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/Diogo8971/lojaSapatos',
             label: 'GitHub',
             position: 'right',
           },
