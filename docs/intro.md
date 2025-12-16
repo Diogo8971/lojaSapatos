@@ -2,46 +2,62 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Bem-vindo à Loja de Sapatos!
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Descubra a nossa coleção de sapatos com estilo e qualidade em minutos.
 
-## Getting Started
+## Começar
 
-Get started by **creating a new site**.
+Se é novo por aqui, este tutorial vai guiá-lo por tudo o que precisa de saber sobre como navegar no site e fazer compras de forma fácil e rápida.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### O que vai encontrar
 
-### What you'll need
+- **Variedade de Sapatos**: Sapatos masculinos, femininos, ténis, botas, e muito mais!
+- **Facilidade de Navegação**: Organize os seus produtos por categoria, tamanho ou marca.
+- **Promoções e Ofertas Especiais**: Aproveite as promoções exclusivas para os nossos clientes online.
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## Como Comprar
 
-## Generate a new site
+Comprar na nossa loja é simples. Siga os passos abaixo para fazer a sua compra:
 
-Generate a new Docusaurus site using the **classic template**.
+1. **Escolha os seus sapatos**: Navegue pelas categorias de sapatos ou pesquise o modelo que deseja.
+2. **Selecione o tamanho**: Verifique a nossa tabela de tamanhos para garantir que está a escolher o correto.
+3. **Adicione ao carrinho**: Depois de escolher o modelo, adicione-o ao seu carrinho de compras.
+4. **Finalize a compra**: Quando estiver pronto, vá até ao carrinho e complete a sua compra com as opções de pagamento que oferecemos.
 
-The classic template will automatically be added to your project after you run the command:
+> **Dica**: Se não tem certeza sobre o tamanho, adicione dois pares ao carrinho e devolva o que não servir.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+## Métodos de Pagamento
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+Oferecemos diversas formas de pagamento para a sua comodidade:
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+- **Cartão de Crédito**
+- **Débito Online**
+- **PayPal**
+- **MB Way**
+- **Transferência Bancária**
 
-## Start your site
+## Política de Trocas e Devoluções
 
-Run the development server:
+Temos uma **política de devolução de 30 dias**. Caso o produto não atenda às suas expectativas, pode devolvê-lo ou trocá-lo sem problemas.
 
-```bash
-cd my-website
-npm run start
-```
+Para mais informações sobre a nossa política, consulte a secção de **Devoluções** no rodapé do site.
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+## Fique Conectado
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+- **Siga-nos nas redes sociais**: Fique por dentro das novidades e promoções. Estamos no [Instagram](https://www.instagram.com/lojasapatos), [Facebook](https://www.facebook.com/lojasapatos), e [Twitter](https://twitter.com/lojasapatos).
+- **Assine a nossa newsletter**: Receba ofertas exclusivas no seu e-mail. Inscreva-se e aproveite os descontos!
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+## Fale Conosco
+
+Se tiver alguma dúvida ou precisar de ajuda com a compra, a nossa equipa de atendimento está disponível para ajudar:
+
+- **E-mail**: contacto@lojasapatos.com
+- **WhatsApp**: [Clique para conversar](https://wa.me/1234567890)
+- **Chat ao vivo**: Disponível no nosso site, 24h por dia!
+
+---
+
+**Diogo**  
+Fundador da Loja de Sapatos  
+[Visite a nossa loja](https://www.lojasapatos.com)
