@@ -84,9 +84,9 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'My Site',
+        title: 'Bella Shoes',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Bella Shoes Logo',
           src: 'img/logo.svg',
         },
         items: [
