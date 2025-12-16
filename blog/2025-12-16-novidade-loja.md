@@ -30,3 +30,6 @@ Na **Loja de Sapatos**, trabalhamos com as melhores marcas para oferecer produto
 **Diogo**  
 Fundador da Loja de Sapatos  
 [LinkedIn](https://www.linkedin.com/in/diogo/)
+
+
+
