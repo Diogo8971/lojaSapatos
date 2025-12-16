@@ -7,8 +7,6 @@ tags: [coleção, outono, novidades]
 date: 2025-12-16
 ---
 
----
-
 # Novidade: Chegada da Coleção de Outono!
 
 Temos o prazer de anunciar que a nossa **coleção de outono** chegou! Se está à procura de novos sapatos para a temporada, temos modelos incríveis para todos os gostos.
