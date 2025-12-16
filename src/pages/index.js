@@ -17,11 +17,7 @@ function HomepageHeader() {
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            Bella Shoes
-          </Link>
+          
         </div>
       </div>
     </header>
@@ -34,7 +30,16 @@ export default function Home() {
     <Layout
       title={`Bella Shoes ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
-      <HomepageHeader />
+       <HomepageHeader />
+      <div className="container" style={{ paddingTop: '130px' }}>
+        <div className={styles.buttons}>
+          <Link
+            className="button button--secondary button--lg"
+            to="/docs/intro">
+            Bella Shoes
+          </Link>
+        </div>
+      </div>
       <main>
         <HomepageFeatures />
       </main>
