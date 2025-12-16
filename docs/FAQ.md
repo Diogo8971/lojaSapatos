@@ -48,3 +48,25 @@ Não, não temos uma loja física, mas oferecemos a opção de **entrega rápida
 Sim, oferecemos **personalização** de sapatos para ocasiões especiais. Se deseja adicionar iniciais ou outro tipo de personalização, entre em contacto connosco para mais informações.
 
 ---
+
+## 4. Pagamentos e Ofertas
+
+### A loja tem sapatos para todas as idades?
+
+Sim! Temos sapatos para **homens, mulheres, crianças e bebés**. Nossa loja oferece uma grande variedade de modelos, desde sapatos formais até casuais, para todas as idades.
+
+### Posso solicitar um orçamento para uma encomenda em grande quantidade?
+
+Sim, se está a planear uma encomenda em grande quantidade, entre em contacto connosco para discutir descontos e condições especiais.
+
+### Quais métodos de pagamento são aceites na loja?
+
+Aceitamos **dinheiro**, **cartões de débito e crédito**, e **Paypal**. Também pode optar pelo **MB Way** para pagamentos rápidos e seguros.
+
+---
+
+## Ainda precisa de ajuda?
+
+Lamentamos não ter encontrado a sua solução nesta página. Pode contactar-nos através do **email contacto@lojasapatos.com** ou pelo número **+351 927 550 794** para uma ajuda personalizada.
+
+---
