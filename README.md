@@ -12,3 +12,12 @@ Bem-vindo à **Loja de Sapatos**, a sua loja online de confiança para encontrar
 - [Contribuição](#contribuição)
 - [Licença](#licença)
 
+---
+
+## Sobre o Projeto
+
+Este projeto é o **site oficial da Loja de Sapatos**, uma plataforma de e-commerce onde os clientes podem comprar sapatos de diferentes estilos e modelos. A loja é 100% online, e a nossa missão é oferecer uma experiência de compra simples, rápida e segura.
+
+O site foi desenvolvido com **Docusaurus**, uma ferramenta popular para a criação de sites estáticos com foco em documentação, mas adaptada para o e-commerce.
+
+---
