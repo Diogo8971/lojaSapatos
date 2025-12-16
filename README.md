@@ -21,3 +21,16 @@ Este projeto é o **site oficial da Loja de Sapatos**, uma plataforma de e-comme
 O site foi desenvolvido com **Docusaurus**, uma ferramenta popular para a criação de sites estáticos com foco em documentação, mas adaptada para o e-commerce.
 
 ---
+
+
+
+## Funcionalidades
+
+- **Catálogo de Produtos**: Visualiza e compre sapatos de várias categorias.
+- **Sistema de Pagamento Seguro**: Suporte para pagamentos via cartão de crédito, PayPal e MB Way.
+- **Filtro de Produtos**: Filtra sapatos por categoria, tamanho, cor e preço.
+- **Promoções e Descontos**: Acompanhe as promoções da loja e utilize códigos de desconto.
+- **Atendimento ao Cliente**: Disponível para responder às suas questões e ajudar com trocas ou devoluções.
+
+---
+
