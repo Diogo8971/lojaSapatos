@@ -4,7 +4,7 @@ author: Rodrigo
 author_title: "Fundador da Loja de Sapatos"
 author_url: "https://github.com/rdias200706-del"
 tags: [tendências, sapatos, moda]
-date: 2025-12-01
+date: 2024-11-22
 ---
 
 # Tendências de Sapatos para 2025: O Que Vai Estar em Alta
