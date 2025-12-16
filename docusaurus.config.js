@@ -124,8 +124,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Intagram',
+                href: 'https://www.instagram.com/Bella_Shoes/',
               },
               {
                 label: 'Discord',
