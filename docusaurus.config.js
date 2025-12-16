@@ -133,7 +133,7 @@ const config = {
               },
               {
                 label: 'X',
-                href: 'https://x.com/docusaurus',
+                href: 'https://x.com/lojasapatos',
               },
             ],
           },
