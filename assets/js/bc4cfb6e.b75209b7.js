@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkloja=globalThis.webpackChunkloja||[]).push([[5862],{3609(a){a.exports=JSON.parse('{"metadata":{"permalink":"/lojaSapatos/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":5,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
