@@ -2,7 +2,7 @@
 title: "Novidade: Chegada da Coleção de Outono!"
 author: Diogo
 author_title: "Fundador da Loja de Sapatos"
-author_url: "https://www.linkedin.com/in/diogo/"
+author_url: "https://github.com/Diogo8971"
 tags: [coleção, outono, novidades]
 date: 2025-12-16
 ---
