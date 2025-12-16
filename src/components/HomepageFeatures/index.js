@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Easy to Use',
-     Svg: '![Sapato](static/img/sapato.svg)',
+    Svg: require('@site/static/img/sapato.svg').default, // Importando o SVG corretamente
     description: (
       <>
         Docusaurus was designed from the ground up to be easily installed and
@@ -15,17 +15,17 @@ const FeatureList = [
   },
   {
     title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,  // Outro exemplo de importação
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Docusaurus lets you focus on your docs, and we'll do the chores. Go ahead
+        and move your docs into the `docs` directory.
       </>
     ),
   },
   {
     title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,  // Outro exemplo de importação
     description: (
       <>
         Extend or customize your website layout by reusing React. Docusaurus can
