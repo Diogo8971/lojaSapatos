@@ -9,8 +9,9 @@ Bem-vindo à **Loja de Sapatos**, a sua loja online de confiança para encontrar
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Instalação e Configuração](#instalação-e-configuração)
 - [Como Usar](#como-usar)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
+
+
+
 
 ---
 
@@ -63,3 +64,14 @@ Certifique-se de ter as seguintes ferramentas instaladas no seu sistema:
    git clone https://github.com/SEU-UTILIZADOR/loja-de-sapatos.git
    cd loja-de-sapatos
 
+
+
+## Como Usar
+
+Após a instalação e execução local, pode personalizar o site da seguinte forma:
+
+- **Adicionar produtos**: Modifique o conteúdo das páginas de produtos, que se encontram na pasta `docs/`.
+- **Editar o conteúdo do blog**: O conteúdo do blog encontra-se na pasta `blog/` e pode ser atualizado em Markdown.
+- **Modificar o design**: As personalizações do design podem ser feitas na pasta `src/css/`.
+
+---
