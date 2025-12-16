@@ -43,3 +43,23 @@ O site foi desenvolvido com **Docusaurus**, uma ferramenta popular para a criaç
 - **Node.js**: Ambiente de execução JavaScript utilizado no desenvolvimento e compilação do site.
 
 ---
+
+## Instalação e Configuração
+
+Siga as instruções abaixo para configurar o projeto localmente.
+
+### Pré-requisitos
+
+Certifique-se de ter as seguintes ferramentas instaladas no seu sistema:
+
+- **Node.js** (versão LTS): [Download Node.js](https://nodejs.org/en/download/)
+- **npm** (gerenciador de pacotes do Node.js), que vem com a instalação do Node.js.
+
+### Passos para Instalar
+
+1. **Clone o repositório**:
+
+   ```bash
+   git clone https://github.com/SEU-UTILIZADOR/loja-de-sapatos.git
+   cd loja-de-sapatos
+
