@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkloja=globalThis.webpackChunkloja||[]).push([[903],{1912(a){a.exports=JSON.parse('{"blogBasePath":"/lojaSapatos/blog","blogTitle":"Blog","authorsListPath":"/lojaSapatos/blog/authors"}')}}]);
